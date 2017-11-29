@@ -1,0 +1,24 @@
+{
+  "name": "num-plus",
+  "version": "0.0.1",
+  "description": "Num library with additional functions added to the prototype.",
+  "main": "./num-plus",
+  "keywords": [
+    "via",
+    "trading",
+    "num",
+    "num-plus"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/via-platform/num-plus",
+  "author": "Dakota Gordon",
+  "dependencies": {
+    "num": "^0.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
